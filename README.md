@@ -165,6 +165,13 @@
 - [vuepress-plugin-vuese-docs](https://github.com/busyrat/vuepress-plugins/tree/master/packages/vuese-docs) - Automatic generation of component documentation via code comments and demo examples
 - [vuepress-plugin-goatcounter](https://github.com/srcrs/vuepress-plugin-goatcounter) - Easy web analytics. No tracking of personal data
 - [@adamdehaven/vuepress-plugin-custom-tooltip](https://github.com/adamdehaven/vuepress-plugin-custom-tooltip) - A customizable, reactive, and reusable tooltip component for VuePress that supports multiple use-cases, plugin options & props.
+- [vuepress-plugin-helper-live2d](https://github.com/JoeyBling/vuepress-plugin-helper-live2d) - 😎 VuePress集成Live2D看板娘. | Live2D plugin for VuePress.
+- [vuepress-plugin-mygitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk) - 😇 VuePress集成Gitalk. | Gitalk plugin for VuePress.
+- [vuepress-plugin-gotop-plus](https://github.com/JoeyBling/vuepress-plugin-gotop-plus) - ☝️ VuePress回到页首插件Plus. | back-to-top plus plugin for VuePress.
+- [@xiaopanda/vuepress-plugin-code-copy](https://github.com/panxingcheng/vuepress-plugin-code-copy) - A VuePress plugin that copies code blocks with one click.
+- [vuepress-plugin-last-reading](https://github.com/tolking/vuepress-plugin-last-reading) - A vuepress plugin to record the last reading.
+- [vuepress-plugin-qrocde](https://github.com/openHacking/vuepress-plugin-qrcode) - Display the current URL QR code for mobile devices to scan.
+- [vuepress-plugin-child-toc](https://github.com/tchiotludo/vuepress-plugin-child-toc) - A table of contents that displayed all child pages.
 
 ## Themes
 
@@ -200,7 +207,7 @@
 - [vuepress-theme-britecore](https://github.com/z3by/vuepress-theme-britecore) - 🤩Vuepress documentation theme using BriteCore design system. [Demo](https://vp-britecore.z3by.com/)
 - [vuepress-theme-terminal](https://github.com/jsmith/vuepress-theme-terminal) - 💻 A portfolio theme modeled as a terminal - [Preview](https://jsmith.github.io/vuepress-theme-terminal)
 - [vuepress-theme-ting](https://github.com/Chenyating/vuepress-theme-ting) - :frog: :cactus: 小清新风格-A simple and fresh style of vuepress theme. [Demo](https://www.yating.online/)
-- [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for web-fonts and light and dark themes. [Demo](https://mflash.dev/vuepress-theme-succinct/)
+- [vuepress-theme-succinct](https://github.com/Microflash/vuepress-theme-succinct) - Vuepress theme with support for custom fonts, and light and dark themes. [Demo](https://succinct.mflash.dev/)
 - [vuepress-theme-medium](https://github.com/z3by/vuepress-theme-medium) -  🥁A medium-like vuepress blog theme [DEMO](https://vuepress-theme-medium.z3by.com)
 - [vuepress-theme-vuetify](https://github.com/arab-open-source/vuepress-theme-vuetify) - 🥰Vuepress documentation theme using Vuetify and google material design [DEMO](https://vuepress-theme-vuetify.netlify.com/)
 - [vuepress-theme-blog-vuetify](https://github.com/ttskch/vuepress-theme-blog-vuetify/) - 💥The world's most simple, beautiful and customizable 2 columns VuePress blog theme built with Vuetify [Demo](https://vuepress-theme-blog-vuetify.ttskch.com/)
@@ -214,6 +221,7 @@
 - [vuepress-theme-ic](https://github.com/IKangXu/vuepress-theme-ic) :tada::tada::tada: A note-style vuepress blog theme with simple, clear and practical features for the purpose. The palest ink is better than the best memory. [DEMO](https://www.ikangxu.cn/)
 - [vuepress-theme-mustom](https://github.com/jinyaoMa/vuepress-theme-mustom) - Simple design theme for VuePress - [PREVIEW](https://jinyaoMa.github.io/vuepress-theme-mustom)
 - [@qcyblm/vuepress-theme-vpx](https://github.com/qcyblm/vuepress-theme-vpx) - A theme developed based on VuePress
+- [vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus) - 🔥🔥🔥 一款简洁优雅的VuePress主题 A simple and elegant theme for VuePress. [Blog Preview](https://zhousiwei.gitee.io/ibooks/)
 
 ## Projects Using VuePress
 
@@ -245,6 +253,7 @@
 - [ariona.net (VuePress  × Netlify)](https://ariona.net) – [Open Sourced](https://github.com/ariona/ariona.net)
 - [ChungZH's blog (VuePress theme-blog with Netlify)](https://chungzh.cn)
 - [mrsessions blog (VuePress with Azure Static Web Apps)](https://blog.mrsessions.com)
+- [wxsm's space](https://wxsm.space)
 
 ### Open Source
 
@@ -336,6 +345,11 @@
 - [The Wise Opportunist](https://opportunist.luseeds.com/) - Learn how to exploit the system to your own interest
 - [BTCPay Server](https://docs.btcpayserver.org/) - BTCPay Server is an open-source, self-hosted payment processor for Bitcoin and other cryptocurrencies.
 - [PHPScraper](https://phpscraper.de) - Scraper library for PHP using VuePress for its documentation.
+- [試毅-思伟_技术笔记](https://zhousiwei.gitee.io/ibooks/) – 🎉🎉🎉 VuePress记录技术开发笔记
+- [MyBatis-Plus](https://mybatis.plus/) - An powerful enhanced toolkit of MyBatis for simplify development.
+- [VIZ Docs](https://docs.viz.cx) - VIZ blockchain documentation.
+- [vue-grid-layout](https://jbaysolutions.github.io/vue-grid-layout/) - Documentation for vue-grid-layout, a grid layout system for Vue.js
+- [uiv](https://uiv.wxsm.space) - Bootstrap 3 Components implemented by Vue 2.
 
 ### Enterprise Usage
 
